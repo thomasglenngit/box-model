@@ -1,0 +1,11 @@
+.my-class {
+  margin: 12px;
+  border: 10px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+
+body {
+  background-color: violet;
+}
+
